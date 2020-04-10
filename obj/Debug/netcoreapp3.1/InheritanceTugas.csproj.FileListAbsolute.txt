@@ -2,3 +2,12 @@ I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\Inheritance
 I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.csproj.CoreCompileInputs.cache
 I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.AssemblyInfoInputs.cache
 I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.exe
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.deps.json
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.dll
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.pdb
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.dll
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.pdb
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.genruntimeconfig.cache
