@@ -1,8 +1,7 @@
 ﻿using System;
 
-public class Teacher
+public class Teacher : Person
 {
-	public Teacher()
-	{
-	}
+	public string TeacherId { get; set; }
+	public string Subject { get; set; }
 }

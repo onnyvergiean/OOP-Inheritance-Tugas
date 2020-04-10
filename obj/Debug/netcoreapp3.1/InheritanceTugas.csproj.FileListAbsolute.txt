@@ -1,0 +1,4 @@
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.AssemblyInfo.cs

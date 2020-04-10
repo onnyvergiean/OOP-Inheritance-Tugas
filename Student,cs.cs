@@ -1,8 +1,7 @@
 ﻿using System;
 
-public class Student
+public class Student : Person
 {
-	public Student()
-	{
-	}
+	public string StudentId { get; set; }
+	public string Email { get; set; }
 }
